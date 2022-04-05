@@ -1,0 +1,16 @@
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\OC_LAB02.exe
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\OC_LAB02.deps.json
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\OC_LAB02.runtimeconfig.json
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\OC_LAB02.runtimeconfig.dev.json
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\OC_LAB02.dll
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\ref\OC_LAB02.dll
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\bin\Debug\net5.0\OC_LAB02.pdb
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.csproj.AssemblyReference.cache
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.AssemblyInfoInputs.cache
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.AssemblyInfo.cs
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.csproj.CoreCompileInputs.cache
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.dll
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\ref\OC_LAB02.dll
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.pdb
+C:\Users\TheMovick\Source\Repos\OC_LAB02\OC_LAB02\obj\Debug\net5.0\OC_LAB02.genruntimeconfig.cache
